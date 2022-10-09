@@ -1,11 +1,11 @@
 ### Sanae Bouazzah - Morocco 💖
 
 ## Some of my works:
-#### ¹ Portfolio of Antony Walker: [portfolio-antony-walker.netlify.app](portfolio-antony-walker.netlify.app)
+#### ¹ Portfolio of Antony Walker: [portfolio-antony-walker.netlify.app](portfolio-antony-walker.netlify.app) 
 #### some of projects : 
-                        [mexant-company.netlify.app](https://mexant-company.netlify.app)
-                        [https://simple-template.netlify.app](https://simple-template.netlify.app)
-                        [https://sanaebouazzah.github.io/CYBORG-Game/](https://sanaebouazzah.github.io/CYBORG-Game/)
+####  [mexant-company.netlify.app](mexant-company.netlify.app)  
+####  [https://sanaebouazzah.github.io/CYBORG-Game/](https://sanaebouazzah.github.io/CYBORG-Game/)
+####  [https://simple-template.netlify.app](https://simple-template.netlify.app) 
 
 
 <!--
