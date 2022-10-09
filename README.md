@@ -2,7 +2,7 @@
 
 ## Some of my works:
 #### ¹ Portfolio of Antony Walker: [portfolio-antony-walker.netlify.app](portfolio-antony-walker.netlify.app) 
-#### Some ofvmy  projects : 
+#### Some of my  projects : 
 ####            [mexant-company.netlify.app](mexant-company.netlify.app)  
 ####            [https://sanaebouazzah.github.io/CYBORG-Game/](https://sanaebouazzah.github.io/CYBORG-Game/)
 ####            [https://simple-template.netlify.app](https://simple-template.netlify.app) 
