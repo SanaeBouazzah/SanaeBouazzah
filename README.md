@@ -6,6 +6,7 @@
 #### Some of my  projects : 
 ####            https://sanaebouazzah.github.io/Mexant-Project/
 ####            [https://sanaebouazzah.github.io/CYBORG-Game/](https://sanaebouazzah.github.io/CYBORG-Game/)
+####            https://sanaebouazzah.github.io/template-easy-tutorial/
 
 
                      
