@@ -26,7 +26,6 @@
 
 
 
-### Sanae Bouazzah - Morocco 💖
 
 ### My Portfolio : [https://sanaebouazzah.epizy.com](http://sanaebouazzah.epizy.com) 
 
