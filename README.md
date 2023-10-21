@@ -6,7 +6,7 @@ Sanae Bouazzah FullStack Developer From Morocco
 As a web developer, I am passionate about crafting 
 innovative and user-centric websites that blend creativity with functionality.
 </div>
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SanaeBouazzah&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"/>
 ![](https://github-readme-stats.vercel.app/api?username=SanaeBouazzah&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
 
