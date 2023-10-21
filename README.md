@@ -1,5 +1,7 @@
 # 💫 About Me:
-Sanae Bouazzah FullStack Developer From Morocco<br>
+Sanae Bouazzah FullStack Developer From Morocco
+As a web developer, I am passionate about crafting 
+innovative and user-centric websites that blend creativity with functionality.
 
 
 
