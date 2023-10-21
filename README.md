@@ -31,7 +31,7 @@ innovative and user-centric websites that blend creativity with functionality.
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/SanaeBouazzah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SanaeBOUAZZAH) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]([https://behance.net/SanaeBouazzah](https://www.behance.net/sanaeareina)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SanaeBOUAZZAH) 
 
 
 
