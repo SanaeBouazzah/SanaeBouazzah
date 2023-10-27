@@ -23,7 +23,7 @@ innovative and user-centric websites that blend creativity with functionality.
 ![](https://github-contributor-stats.vercel.app/api?username=SanaeBouazzah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align='right' src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SanaeBouazzah&icon=0&color=0)](https://visitcount.itsvg.in)
